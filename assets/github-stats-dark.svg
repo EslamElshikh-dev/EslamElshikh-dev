@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="750" height="185" viewBox="0 0 750 185" role="img" aria-labelledby="title description">
   <title id="title">Eslam Elshikh GitHub activity</title>
-  <desc id="description">GitHub repositories, contributions, and follower statistics.</desc>
+  <desc id="description">Automatically updated GitHub repositories, contributions, and follower statistics.</desc>
   <style>
     .heading { font: 700 18px -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif; fill: #f0f6fc; }
     .value { font: 700 27px -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif; fill: #2f81f7; }
@@ -11,7 +11,23 @@
   <rect x="0.5" y="0.5" width="749" height="184" rx="16" fill="#0d1117" stroke="#30363d" />
   <circle cx="27" cy="28" r="5" fill="#2f81f7" />
   <text x="42" y="34" class="heading">GitHub Activity · نشاط GitHub</text>
-  <g transform="translate(25 64)"><rect width="220" height="96" rx="14" fill="#161b22" stroke="#30363d" /><text x="110" y="39" class="value" text-anchor="middle">74</text><text x="110" y="64" class="label" text-anchor="middle">Public repositories</text><text x="110" y="84" class="arabic" text-anchor="middle" direction="rtl">المستودعات العامة</text></g>
-  <g transform="translate(265 64)"><rect width="220" height="96" rx="14" fill="#161b22" stroke="#30363d" /><text x="110" y="39" class="value" text-anchor="middle">1,245</text><text x="110" y="64" class="label" text-anchor="middle">Contributions · last year</text><text x="110" y="84" class="arabic" text-anchor="middle" direction="rtl">المساهمات · آخر سنة</text></g>
-  <g transform="translate(505 64)"><rect width="220" height="96" rx="14" fill="#161b22" stroke="#30363d" /><text x="110" y="39" class="value" text-anchor="middle">3</text><text x="110" y="64" class="label" text-anchor="middle">Followers</text><text x="110" y="84" class="arabic" text-anchor="middle" direction="rtl">المتابعون</text></g>
+  
+        <g transform="translate(25 64)">
+          <rect width="220" height="96" rx="14" fill="#161b22" stroke="#30363d" />
+          <text x="110" y="39" class="value" text-anchor="middle">73</text>
+          <text x="110" y="64" class="label" text-anchor="middle">Public repositories</text>
+          <text x="110" y="84" class="arabic" text-anchor="middle" direction="rtl">المستودعات العامة</text>
+        </g>
+        <g transform="translate(265 64)">
+          <rect width="220" height="96" rx="14" fill="#161b22" stroke="#30363d" />
+          <text x="110" y="39" class="value" text-anchor="middle">1,260</text>
+          <text x="110" y="64" class="label" text-anchor="middle">Contributions · last year</text>
+          <text x="110" y="84" class="arabic" text-anchor="middle" direction="rtl">المساهمات · آخر سنة</text>
+        </g>
+        <g transform="translate(505 64)">
+          <rect width="220" height="96" rx="14" fill="#161b22" stroke="#30363d" />
+          <text x="110" y="39" class="value" text-anchor="middle">7</text>
+          <text x="110" y="64" class="label" text-anchor="middle">Followers</text>
+          <text x="110" y="84" class="arabic" text-anchor="middle" direction="rtl">المتابعون</text>
+        </g>
 </svg>
