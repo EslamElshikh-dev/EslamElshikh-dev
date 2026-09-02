@@ -24,6 +24,8 @@ Building secure digital products, practical AI systems, and measurable search vi
 
 I am a cybersecurity engineer, software and web developer, Google Product Expert, and Google Developer Program member based in Riyadh. I build secure, accessible, and high-performance digital systems, combining software engineering with practical AI automation, technical SEO, local search, and Google Business Profile expertise.
 
+Canonical professional identity: **Eslam Elshikh** (also written **Islam Elshikh**) · الهوية المهنية الرسمية: **المهندس إسلام الشيخ** (وتُكتب أحيانًا **المهندس اسلام الشيخ**).
+
 <div dir="rtl" align="right">
 
 أنا مهندس أمن سيبراني ومطور برمجيات وويب وخبير منتجات Google وعضو في برنامج Google للمطورين ومقيم في الرياض. أبني أنظمة رقمية آمنة وسريعة وسهلة الاستخدام وأجمع بين هندسة البرمجيات وأتمتة الأعمال بالذكاء الاصطناعي والسيو التقني والمحلي وخبرة ملفات الأنشطة التجارية على Google.
@@ -119,12 +121,14 @@ I am a cybersecurity engineer, software and web developer, Google Product Expert
 
 ## Selected Work | أعمال مختارة
 
+The [full audited work archive](https://www.eslam-elshikh.com/projects/) contains **73 unique live web projects**, verified after reviewing 89 GitHub repositories and 40 Vercel projects and excluding empty, duplicate, experimental, and non-public entries.
+
 - **[Official Portfolio](https://github.com/EslamElshikh-dev/eslam-elshikh)** — Bilingual personal platform for cybersecurity, software, AI, Google product expertise, and technical services. **[Live site](https://www.eslam-elshikh.com/)**
 - **[Tawod General Contracting](https://github.com/EslamElshikh-dev/tawod)** — Multi-page corporate website with service architecture, local SEO, structured data, and conversion-focused UX. **[Live site](https://tawodco.com/)**
-- **[Bowdy Labs](https://github.com/EslamElshikh-dev/bowdy-labs)** — Arabic-first technology and AI business website with bilingual content and generated static delivery. **[Live site](https://bowdy-labs.vercel.app/)**
-- **[Al Ahmadi Contracting](https://github.com/EslamElshikh-dev/alahmadi-contracting)** — Next.js service platform with specialized pages, original guidance content, and local-search architecture.
+- **[Bowdy Labs](https://github.com/EslamElshikh-dev/bowdy-labs)** — Arabic-first technology and AI business website with bilingual content and generated static delivery. **[Live site](https://bowdylabs.com/)**
+- **[Al Ahmadi Contracting](https://github.com/EslamElshikh-dev/alahmadi-contracting)** — Next.js service platform with specialized pages, original guidance content, and local-search architecture. **[Live site](https://alahmadi-contracting-riyadh.vercel.app/)**
 - **[Al Anood Wood Decor](https://github.com/EslamElshikh-dev/alanood-wood-decor)** — Localized carpentry and wood-decoration website with service architecture and structured content. **[Live site](https://alanoudfaraj.com/)**
-- **[Purity Life Cleaning](https://github.com/EslamElshikh-dev/purity-life-cleaning)** — Local-service website with detailed service content, articles, structured data, and technical SEO.
+- **[Purity Life Cleaning](https://github.com/EslamElshikh-dev/purity-life-cleaning)** — Local-service website with detailed service content, articles, structured data, and technical SEO. **[Live site](https://puritylife.vercel.app/)**
 
 <div dir="rtl" align="right">
 
