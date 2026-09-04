@@ -14,13 +14,13 @@
   
         <g transform="translate(25 64)">
           <rect width="220" height="96" rx="14" fill="#161b22" stroke="#30363d" />
-          <text x="110" y="39" class="value" text-anchor="middle">87</text>
+          <text x="110" y="39" class="value" text-anchor="middle">88</text>
           <text x="110" y="64" class="label" text-anchor="middle">Public repositories</text>
           <text x="110" y="84" class="arabic" text-anchor="middle" direction="rtl">المستودعات العامة</text>
         </g>
         <g transform="translate(265 64)">
           <rect width="220" height="96" rx="14" fill="#161b22" stroke="#30363d" />
-          <text x="110" y="39" class="value" text-anchor="middle">2,166</text>
+          <text x="110" y="39" class="value" text-anchor="middle">2,292</text>
           <text x="110" y="64" class="label" text-anchor="middle">Contributions · last year</text>
           <text x="110" y="84" class="arabic" text-anchor="middle" direction="rtl">المساهمات · آخر سنة</text>
         </g>
