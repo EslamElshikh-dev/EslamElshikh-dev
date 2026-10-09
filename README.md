@@ -2,8 +2,8 @@
 
 # Eslam Elshikh | إسلام الشيخ
 
-### Cybersecurity Engineer · Software & Web Developer · Google Product Expert
-### مهندس أمن سيبراني · مطور برمجيات وويب · خبير منتجات Google
+### Cybersecurity Engineer · Software & Web Developer · Google Maps & Local Search Specialist
+### مهندس أمن سيبراني · مطور برمجيات وويب · متخصص خرائط Google والسيو المحلي
 
 Building secure digital products, practical AI systems, and measurable search visibility for businesses in Saudi Arabia.
 
@@ -22,13 +22,17 @@ Building secure digital products, practical AI systems, and measurable search vi
 
 ## About Me | نبذة عني
 
-I am a cybersecurity engineer, software and web developer, Google Product Expert, and Google Developer Program member based in Riyadh. I build secure, accessible, and high-performance digital systems, combining software engineering with practical AI automation, technical SEO, local search, and Google Business Profile expertise.
+I am a cybersecurity engineer, software and web developer, Google Maps and local search specialist, and Google Developer Program member based in Riyadh. I build secure, accessible, and high-performance digital systems, combining software engineering with practical AI automation, technical SEO, local search, and Google Business Profile expertise.
 
 Canonical professional identity: **Eslam Elshikh** (also written **Islam Elshikh**) · الهوية المهنية الرسمية: **المهندس إسلام الشيخ** (وتُكتب أحيانًا **المهندس اسلام الشيخ**).
 
+Public profiles for the same professional identity: [About Eslam](https://www.eslam-elshikh.com/about/) · [Wikidata Q138800449](https://www.wikidata.org/wiki/Q138800449) · [Google Developer Program](https://me.developers.google.com/u/EslamElshikh) · [YouTube @remoesoo10](https://www.youtube.com/@remoesoo10) · [IKNUVA profile](https://iknuva.com/creators/eslam-elshikh-q138800449?lang=ar).
+
+الدلائل المحلية والمحتوى: [تعريف مطور دليل العسيرات](https://usayrat.online/developer) · [تعريف مطور دليل نقادة](https://naqada-directory.vercel.app/developer/) · [المقالات التقنية](https://www.eslam-elshikh.com/blog/).
+
 <div dir="rtl" align="right">
 
-أنا مهندس أمن سيبراني ومطور برمجيات وويب وخبير منتجات Google وعضو في برنامج Google للمطورين ومقيم في الرياض. أبني أنظمة رقمية آمنة وسريعة وسهلة الاستخدام وأجمع بين هندسة البرمجيات وأتمتة الأعمال بالذكاء الاصطناعي والسيو التقني والمحلي وخبرة ملفات الأنشطة التجارية على Google.
+أنا مهندس أمن سيبراني ومطور برمجيات وويب ومتخصص خرائط Google والسيو المحلي وعضو في برنامج Google للمطورين ومقيم في الرياض. أبني أنظمة رقمية آمنة وسريعة وسهلة الاستخدام وأجمع بين هندسة البرمجيات وأتمتة الأعمال بالذكاء الاصطناعي والسيو التقني والمحلي وخبرة ملفات الأنشطة التجارية على Google.
 
 </div>
 
@@ -121,8 +125,10 @@ Canonical professional identity: **Eslam Elshikh** (also written **Islam Elshikh
 
 ## Selected Work | أعمال مختارة
 
-The [full audited work archive](https://www.eslam-elshikh.com/projects/) contains **73 unique live web projects**, verified after reviewing 89 GitHub repositories and 40 Vercel projects and excluding empty, duplicate, experimental, and non-public entries.
+Explore the [published project archive](https://www.eslam-elshikh.com/projects/) and the [dated work evidence](https://www.eslam-elshikh.com/work-evidence/) for project scope, live links, and delivery details.
 
+- **[Al Usayrat Directory](https://usayrat.online/)** — Arabic local directory and village knowledge platform for Al Usayrat, Sohag. [Developer profile](https://usayrat.online/developer) · [Source](https://github.com/EslamElshikh-dev/al-osairat-directory)
+- **[Naqada Directory](https://naqada-directory.vercel.app/)** — Local services and editorial content for Naqada, Qena. [Developer profile](https://naqada-directory.vercel.app/developer/) · [Source](https://github.com/EslamElshikh-dev/naqada-directory)
 - **[Official Portfolio](https://github.com/EslamElshikh-dev/eslam-elshikh)** — Bilingual personal platform for cybersecurity, software, AI, Google product expertise, and technical services. **[Live site](https://www.eslam-elshikh.com/)**
 - **[Tawod General Contracting](https://github.com/EslamElshikh-dev/tawod)** — Multi-page corporate website with service architecture, local SEO, structured data, and conversion-focused UX. **[Live site](https://tawodco.com/)**
 - **[Bowdy Labs](https://github.com/EslamElshikh-dev/bowdy-labs)** — Arabic-first technology and AI business website with bilingual content and generated static delivery. **[Live site](https://bowdylabs.com/)**
