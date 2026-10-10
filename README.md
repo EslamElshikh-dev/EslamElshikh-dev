@@ -3,7 +3,7 @@
 # Eslam Elshikh | إسلام الشيخ
 
 ### Cybersecurity Engineer · Software & Web Developer · Google Maps & Local Search Specialist
-### مهندس أمن سيبراني · مطور برمجيات وويب · متخصص خرائط Google والسيو المحلي
+### مهندس أمن سيبراني · خبير منتجات جوجل معتمد · مطور في جوجل معتمد · متخصص خرائط وملفات Google والسيو المحلي وتصميم وبرمجة الأنظمة وتطوير وكلاء الذكاء الإصطناعي .
 
 Building secure digital products, practical AI systems, and measurable search visibility for businesses in Saudi Arabia.
 
