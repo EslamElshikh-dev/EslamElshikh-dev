@@ -26,7 +26,7 @@ I am a cybersecurity engineer, software and web developer, Google Maps and local
 
 Canonical professional identity: **Eslam Elshikh** (also written **Islam Elshikh**) · الهوية المهنية الرسمية: **المهندس إسلام الشيخ** (وتُكتب أحيانًا **المهندس اسلام الشيخ**).
 
-Public profiles for the same professional identity: [About Eslam](https://www.eslam-elshikh.com/about/) · [Eslam Elshikh on Google](https://www.google.com/search?q=%D8%A5%D8%B3%D9%84%D8%A7%D9%85+%D8%A7%D9%84%D8%B4%D9%8A%D8%AE&kgmid=/g/11z3zxlvyt) · [Facebook](https://www.facebook.com/eslamelshikhdev/) · [Google Developer Program](https://me.developers.google.com/u/EslamElshikh) · [YouTube](https://www.youtube.com/channel/UCzzymecmc8SAH8vtpYpKVqQ) · [IKNUVA profile](https://iknuva.com/creators/eslam-elshikh-q138800449?lang=ar).
+Public profiles for the same professional identity: [About Eslam](https://www.eslam-elshikh.com/about/) · [Eslam Elshikh on Google](https://www.google.com/search?q=%D8%A5%D8%B3%D9%84%D8%A7%D9%85+%D8%A7%D9%84%D8%B4%D9%8A%D8%AE&kgmid=/g/11z3zxlvyt) · [Facebook](https://www.facebook.com/eslamelshikhdev/) · [Google Developer Program](https://me.developers.google.com/u/EslamElshikh) · [YouTube](https://www.youtube.com/channel/UCzzymecmc8SAH8vtpYpKVqQ).
 
 الدلائل المحلية والمحتوى: [تعريف مطور دليل العسيرات](https://usayrat.online/developer) · [تعريف مطور دليل نقادة](https://naqada-directory.vercel.app/developer/) · [المقالات التقنية](https://www.eslam-elshikh.com/blog/).
 
@@ -51,6 +51,22 @@ Public profiles for the same professional identity: [About Eslam](https://www.es
 - تقديم دعم منظم لمنتجات Google وفق السياسات والمسارات الرسمية.
 
 </div>
+
+---
+
+## Credentials, Practice Notes & Media | الشهادات والملاحظات
+
+- [Issuer-linked credentials & community contributions](https://www.eslam-elshikh.com/en/credentials/) · [الشهادات والمساهمات](https://www.eslam-elshikh.com/credentials/).
+- [Engineering practice notes](https://www.eslam-elshikh.com/en/notes/) · [ملاحظات من العمل](https://www.eslam-elshikh.com/notes/).
+- [Bilingual media kit, profile PDF and short videos](https://www.eslam-elshikh.com/en/media-kit/) · [ملف التعريف والمشاركة](https://www.eslam-elshikh.com/media-kit/).
+
+| Selected work | What the case study documents |
+| --- | --- |
+| [Tawod General Contracting](https://www.eslam-elshikh.com/en/projects/tawod-contracting/) | Delivery scope, equal-period GA4 comparisons and their interpretation. |
+| [Sama Scan](https://www.eslam-elshikh.com/en/projects/sama-scan/) | Website delivery and dated Business Profile interaction comparisons. |
+| [Naqada Directory](https://www.eslam-elshikh.com/en/projects/naqada-directory/) | Arabic-directory engineering, publication rules and source evidence. |
+
+The credential page provides the exact certification names, issuer URLs and recorded review dates. Developer-community memberships are described separately from professional certifications. The notes connect to public source code and full case-study context.
 
 ---
 
