@@ -3,7 +3,7 @@
 # Eslam Elshikh | إسلام الشيخ
 
 ### Cybersecurity Engineer · Software & Web Developer · Google Maps & Local Search Specialist
-### مهندس أمن سيبراني · خبير منتجات جوجل معتمد · مطور في جوجل معتمد · متخصص خرائط وملفات Google والسيو المحلي وتصميم وبرمجة الأنظمة وتطوير وكلاء الذكاء الإصطناعي .
+### مهندس أمن سيبراني · مطور برمجيات وويب · متخصص خرائط Google والسيو المحلي
 
 Building secure digital products, practical AI systems, and measurable search visibility for businesses in Saudi Arabia.
 
@@ -26,7 +26,7 @@ I am a cybersecurity engineer, software and web developer, Google Maps and local
 
 Canonical professional identity: **Eslam Elshikh** (also written **Islam Elshikh**) · الهوية المهنية الرسمية: **المهندس إسلام الشيخ** (وتُكتب أحيانًا **المهندس اسلام الشيخ**).
 
-Public profiles for the same professional identity: [About Eslam](https://www.eslam-elshikh.com/about/) · [Wikidata Q138800449](https://www.wikidata.org/wiki/Q138800449) · [Google Developer Program](https://me.developers.google.com/u/EslamElshikh) · [YouTube @remoesoo10](https://www.youtube.com/@remoesoo10) · [IKNUVA profile](https://iknuva.com/creators/eslam-elshikh-q138800449?lang=ar).
+Public profiles for the same professional identity: [About Eslam](https://www.eslam-elshikh.com/about/) · [Eslam Elshikh on Google](https://www.google.com/search?q=%D8%A5%D8%B3%D9%84%D8%A7%D9%85+%D8%A7%D9%84%D8%B4%D9%8A%D8%AE&kgmid=/g/11z3zxlvyt) · [Facebook](https://www.facebook.com/eslamelshikhdev/) · [Google Developer Program](https://me.developers.google.com/u/EslamElshikh) · [YouTube](https://www.youtube.com/channel/UCzzymecmc8SAH8vtpYpKVqQ) · [IKNUVA profile](https://iknuva.com/creators/eslam-elshikh-q138800449?lang=ar).
 
 الدلائل المحلية والمحتوى: [تعريف مطور دليل العسيرات](https://usayrat.online/developer) · [تعريف مطور دليل نقادة](https://naqada-directory.vercel.app/developer/) · [المقالات التقنية](https://www.eslam-elshikh.com/blog/).
 
@@ -167,7 +167,7 @@ Explore the [published project archive](https://www.eslam-elshikh.com/projects/)
 <a href="https://me.developers.google.com/u/EslamElshikh"><img src="https://img.shields.io/badge/Google_Developer-Profile-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Developer Profile"></a>
 <a href="https://x.com/remoesoo10"><img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
 <a href="https://www.instagram.com/remoesoo10"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://www.threads.net/@remoesoo10"><img src="https://img.shields.io/badge/Threads-Follow-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads"></a>
+<a href="https://www.threads.com/@remoesoo10"><img src="https://img.shields.io/badge/Threads-Follow-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads"></a>
 
 </div>
 
