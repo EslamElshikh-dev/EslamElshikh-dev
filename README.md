@@ -26,7 +26,7 @@ I am a cybersecurity engineer, software and web developer, Google Maps and local
 
 Canonical professional identity: **Eslam Elshikh** (also written **Islam Elshikh**) · الهوية المهنية الرسمية: **المهندس إسلام الشيخ** (وتُكتب أحيانًا **المهندس اسلام الشيخ**).
 
-Public profiles for the same professional identity: [About Eslam](https://www.eslam-elshikh.com/about/) · [Eslam Elshikh on Google](https://www.google.com/search?q=%D8%A5%D8%B3%D9%84%D8%A7%D9%85+%D8%A7%D9%84%D8%B4%D9%8A%D8%AE&kgmid=/g/11z3zxlvyt) · [Facebook](https://www.facebook.com/eslamelshikhdev/) · [Google Developer Program](https://me.developers.google.com/u/EslamElshikh) · [YouTube](https://www.youtube.com/channel/UCzzymecmc8SAH8vtpYpKVqQ).
+Public profiles for the same professional identity: [About Eslam](https://www.eslam-elshikh.com/about/) · [Eslam Elshikh on Google](https://www.google.com/search?q=%D8%A5%D8%B3%D9%84%D8%A7%D9%85+%D8%A7%D9%84%D8%B4%D9%8A%D8%AE&kgmid=/g/11z3zxlvyt) · [Facebook](https://www.facebook.com/eslamelshikhdev/) · [Google Developer Program](https://me.developers.google.com/u/EslamElshikh) · [YouTube @remoesoo10](https://www.youtube.com/channel/UCzzymecmc8SAH8vtpYpKVqQ) · [YouTube @EslamElshikh10](https://www.youtube.com/channel/UCsupPcGARQHyha6uIvYIwQA).
 
 الدلائل المحلية والمحتوى: [تعريف مطور دليل العسيرات](https://usayrat.online/developer) · [تعريف مطور دليل نقادة](https://naqada-directory.vercel.app/developer/) · [المقالات التقنية](https://www.eslam-elshikh.com/blog/).
 
