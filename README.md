@@ -20,6 +20,25 @@ Building secure digital products, practical AI systems, and measurable search vi
 
 ---
 
+## Selected Work | أعمال مختارة
+
+**[سما سكان للأشعة · Sama Scan](https://github.com/EslamElshikh-dev/sama-scan-center-)**  
+نظام حجوزات لمركز أشعة يفصل صلاحيات الاستقبال والتسويق ويمنع تكرار الحجز عند إعادة إرسال الطلب نفسه.  
+Radiology bookings with separate access for reception and marketing. Retrying a request keeps the original booking.  
+[الموقع · Live site](https://samascan.vercel.app/) · [اختبارات الحجز والصلاحيات · Booking and access tests](https://github.com/EslamElshikh-dev/sama-scan-center-/blob/main/tests/release-flow.test.mjs)
+
+**[دليل نقادة · Naqada Directory](https://github.com/EslamElshikh-dev/naqada-directory)**  
+دليل للخدمات والأخبار والوظائف في نقادة بقنا. عند نشر خبر أو سحبه، تتحدّث الصفحات المرتبطة به فقط.  
+A local directory for Naqada, Qena. Publishing or withdrawing a news item refreshes only the pages that depend on it.  
+[الموقع · Live site](https://naqada-directory.vercel.app/) · [آلية تحديث الصفحات · Cache design](https://github.com/EslamElshikh-dev/naqada-directory/blob/main/docs/scoped-content-cache.md)
+
+**[دليل العسيرات · Al Usayrat Directory](https://github.com/EslamElshikh-dev/al-osairat-directory)**  
+دليل لقرى العسيرات بسوهاج وخدماتها. لكل قرية صفحة مستقلة، وتُفصل السجلات قيد المراجعة عن البيانات المنشورة.  
+A directory of villages and services in Al Usayrat, Sohag, with a page for each village. Unconfirmed records are kept separate from published listings.  
+[الموقع · Live site](https://usayrat.online/) · [فحص ترحيلات قاعدة البيانات · Database migration checks](https://github.com/EslamElshikh-dev/al-osairat-directory/blob/main/.github/workflows/database-migrations.yml)
+
+---
+
 ## About Me | نبذة عني
 
 I am a cybersecurity engineer, software and web developer, Google Maps and local search specialist, and Google Developer Program member based in Riyadh. I build secure, accessible, and high-performance digital systems, combining software engineering with practical AI automation, technical SEO, local search, and Google Business Profile expertise.
@@ -139,12 +158,10 @@ The credential page provides the exact certification names, issuer URLs and reco
 
 ---
 
-## Selected Work | أعمال مختارة
+## More projects | مشاريع أخرى
 
 Explore the [published project archive](https://www.eslam-elshikh.com/projects/) and the [dated work evidence](https://www.eslam-elshikh.com/work-evidence/) for project scope, live links, and delivery details.
 
-- **[Al Usayrat Directory](https://usayrat.online/)** — Arabic local directory and village knowledge platform for Al Usayrat, Sohag. [Developer profile](https://usayrat.online/developer) · [Source](https://github.com/EslamElshikh-dev/al-osairat-directory)
-- **[Naqada Directory](https://naqada-directory.vercel.app/)** — Local services and editorial content for Naqada, Qena. [Developer profile](https://naqada-directory.vercel.app/developer/) · [Source](https://github.com/EslamElshikh-dev/naqada-directory)
 - **[Official Portfolio](https://github.com/EslamElshikh-dev/eslam-elshikh)** — Bilingual personal platform for cybersecurity, software, AI, Google product expertise, and technical services. **[Live site](https://www.eslam-elshikh.com/)**
 - **[Tawod General Contracting](https://github.com/EslamElshikh-dev/tawod)** — Multi-page corporate website with service architecture, local SEO, structured data, and conversion-focused UX. **[Live site](https://tawodco.com/)**
 - **[Bowdy Labs](https://github.com/EslamElshikh-dev/bowdy-labs)** — Arabic-first technology and AI business website with bilingual content and generated static delivery. **[Live site](https://bowdylabs.com/)**
